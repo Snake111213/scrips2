@@ -1,1 +1,0 @@
-# calculadora-de-numeros-pares
